@@ -1,4 +1,4 @@
-module github.com/ktye/pptx
+module github.com/salaleser/pptx
 
 go 1.15
 
