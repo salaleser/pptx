@@ -1,10 +1,8 @@
 module github.com/ktye/pptx
 
-go 1.13
+go 1.15
 
 require (
 	github.com/beevik/etree v1.1.0
-	github.com/ktye/pptx/pptxt v0.0.0
+	github.com/ktye/pptx/pptxt v0.0.0-20200218174659-d9ec05adc37b
 )
-
-replace github.com/ktye/pptx/pptxt => ./pptxt/
